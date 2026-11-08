@@ -34,8 +34,8 @@ Use them on a friend's tree, in a card or in a group chat.
 
 Deco My Tree is a free website: make a Christmas tree, share one link, and friends hang gifts with notes that open on December 25. It works in 19 languages and friends need no app or account.
 
-- Make your tree: https://decomytree.link/create-tree
-- More ideas on the site: https://decomytree.link/deco-my-tree-message-ideas
+- Make your tree: [decomytree.link/create-tree](https://decomytree.link/create-tree)
+- More ideas on the site: [decomytree.link/deco-my-tree-message-ideas](https://decomytree.link/deco-my-tree-message-ideas)
 
 ## License
 
